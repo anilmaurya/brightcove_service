@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{BrightcoveService Wrapper for Ruby}
   spec.description   = %q{BrightcoveService Wrapper for Ruby}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/anilmaurya/brightcove_service"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
